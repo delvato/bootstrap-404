@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280.487" height="274.61" viewBox="0 0 1280.487 274.61">
+  <g id="bulan" transform="translate(-0.155 -524.684)">
+    <path id="Path_9" data-name="Path 9" d="M661,45.478c365.06,0,619.641,274.61,619.641,274.61H.155S295.94,45.478,661,45.478Z" transform="translate(0 479.206)" fill="#a095cb"/>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="25.5" cy="9" rx="25.5" ry="9" transform="translate(842 580)" fill="#bbb0e3"/>
+    <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="19.5" cy="5.5" rx="19.5" ry="5.5" transform="translate(876 700)" fill="#bbb0e3"/>
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="55" cy="13.5" rx="55" ry="13.5" transform="translate(307 666)" fill="#bbb0e3"/>
+    <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="41.5" cy="9" rx="41.5" ry="9" transform="translate(640 739)" fill="#bbb0e3"/>
+    <path id="bayangan" d="M241.669-3.933c113.814,0,129.434,17.625,148.35,38.685s-44.045,3.732-157.859,3.732S89.929,63.311,91.169,46.067,127.855-3.933,241.669-3.933Z" transform="translate(398.869 542)" fill="#bbafe5"/>
+  </g>
+</svg>
